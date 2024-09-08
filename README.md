@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm just a silly coder that want to become full-stack some time...
+![](https://github.com/MarcelloDev6001/MarcelloDev6001/blob/main/silly_image.png)
 
+### Just kidding.
+I'm just a silly student studying back-end and trying to do silly discord bots, games or some others stuffs...
+But i hope i can be a good full-stack coder at the future :)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
