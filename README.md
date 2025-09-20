@@ -1,8 +1,8 @@
 <h1 align="center">Marc (aka Marcello Dev)</h1>
-<p align="center">
+<h3 align="center">
   Welcome to my Github Profile!
   Here you can see all my code stuffs and bio!
-</p>
+</h3>
 
 ![](https://github.com/MarcelloDev6001/MarcelloDev6001/blob/main/silly_image.png)
 
