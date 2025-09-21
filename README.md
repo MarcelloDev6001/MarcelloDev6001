@@ -29,5 +29,41 @@ Hope i can be a good full-stack developer on future :)
 ![MarcelloDev6001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloDev6001&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 # Extras stuffs:
-### 🎵 Listening now:
+## 🎵 Listening now:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31myykbfo5l4dzug3odf7rjsmsxm&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31myykbfo5l4dzug3odf7rjsmsxm&redirect=true)
+
+## Favorite Games:
+### Forsaken
+<a href="https://www.roblox.com/games/18687417158/Forsaken" target="_blank">
+  <img src="https://tr.rbxcdn.com/180DAY-11cb09ac3cc6fc646d152c3da0cfc8d2/768/432/Image/Webp/noFilter" 
+       alt="Forsaken" 
+       style="border-radius: 15px; border: 3px solid #FF0000; padding: 5px; background-color: #f0f0f0;" />
+</a>
+
+### Pressure
+<a href="https://www.roblox.com/games/12411473842/Operation-Heartburn-Pressure" target="_blank">
+  <img src="https://tr.rbxcdn.com/180DAY-e3c32ba5991d77617b76a0bdc880cabe/768/432/Image/Webp/noFilter" 
+       alt="Pressure" 
+       style="border-radius: 15px; border: 3px solid #FF0000; padding: 5px; background-color: #f0f0f0;" />
+</a>
+
+### Grace
+<a href="https://www.roblox.com/games/138837502355157/SPREAD-THE-LOVE-Grace" target="_blank">
+  <img src="https://tr.rbxcdn.com/180DAY-b8b395a1b0e0f21f03ceacabe577cae8/768/432/Image/Webp/noFilter" 
+       alt="Grace" 
+       style="border-radius: 15px; border: 3px solid #FF0000; padding: 5px; background-color: #f0f0f0;" />
+</a>
+
+### Regretevator
+<a href="https://www.roblox.com/games/4972273297/Regretevator-ELEVATOR-SIMULATOR" target="_blank">
+  <img src="https://tr.rbxcdn.com/180DAY-fd273b0c6d189d54933f1d4b53259eb2/768/432/Image/Webp/noFilter" 
+       alt="Regretevator" 
+       style="border-radius: 15px; border: 3px solid #FF0000; padding: 5px; background-color: #f0f0f0;" />
+</a>
+
+### SEWH (Something Evil Will Happen)
+<a href="https://www.roblox.com/games/16991287194/2x-EVENT-something-evil-will-happen" target="_blank">
+  <img src="https://tr.rbxcdn.com/180DAY-945f174f8254e28c8530cba0517e1513/768/432/Image/Webp/noFilter" 
+       alt="SEWH (Something Evil Will Happen)" 
+       style="border-radius: 15px; border: 3px solid #FF0000; padding: 5px; background-color: #f0f0f0;" />
+</a>
