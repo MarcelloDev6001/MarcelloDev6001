@@ -12,7 +12,7 @@ I'm just a silly student studying back-end and trying to do silly discord bots, 
 # About me:
 Name's Marcello, 15 years old. 
 
-Im currently im developing a Discord bot called Carol (View the Repository clicking [Here](https://github.com/MarcelloDev6001/CarolBot)) and a game called *"Theory of Colors"* (it's currently private, soo no link for now).
+Im currently developing a Discord bot called Carol (View the Repository clicking [Here](https://github.com/MarcelloDev6001/CarolBot)) and a game called *"Theory of Colors"* (it's currently private, soo no link for now).
 
 Hope i can be a good full-stack developer on future :)
 
