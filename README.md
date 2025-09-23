@@ -19,9 +19,17 @@ Hope i can be a good full-stack developer on future :)
 ### Plans for future:
 - Learn more of Python, Kotlin, JavaScript, HTML (and CSS) and learn better of Java.
 
-# Social medias:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MarcelloDev6001)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu_usuario)
+# Connect with me:
+<p align="center">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<p align="center">
+<a href="https://discord.com/users/779727883228020756">
+  <img src="https://lanyard.cnrad.dev/api/779727883228020756?idleMessage=Doing%20nothing%20for%20now!"> <br/><br/>
+</p> 
+</p>
 
 # 📊 GitHub Stats:
 ![MarcelloDev6001's Stats](https://github-readme-stats.vercel.app/api?username=MarcelloDev6001&theme=radical&show_icons=true&hide_border=false&count_private=true)
