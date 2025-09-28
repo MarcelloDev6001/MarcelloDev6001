@@ -1,24 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720">
   <defs>
-    <!-- Definição do degradê -->
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1e1e2e; stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#313244; stop-opacity:1" />
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="20%" style="stop-color:black; stop-opacity:0" />
+      <stop offset="50%" style="stop-color:black; stop-opacity:1" />
     </linearGradient>
+
+    <clipPath id="roundedClip">
+      <rect x="0" y="0" width="720" height="720" rx="50" ry="50" />
+    </clipPath>
   </defs>
 
-  <!-- Fundo com degradê -->
-  <rect width="1280" height="720" rx="20" fill="url(#bgGradient)"/>
+  <image href="Moonalicys_Chat_Hades_chibi_version.png"
+         x="0" y="0" height="720" width="720" clip-path="url(#roundedClip)" />
 
-  <!-- Imagem -->
-  <image href="https://avatars.githubusercontent.com/u/132499981?v=4" 
-         x="20" y="20" height="640" width="640" clip-path="url(#circleClip)" />
+  <rect width="1280" height="720" rx="40" fill="url(#bgGradient)"/>
 
-  <!-- Textos -->
-  <text x="120" y="34" fill="white" font-size="24" font-family="Arial" font-weight="bold">
-    Marc (aka Marcello Dev)
+  <rect x="5" y="5" width="1270" height="710" rx="30" fill="none" stroke="#c2c2c2" stroke-width="10"/>
+
+  <text x="960" y="320" fill="white" font-size="36" font-family="Arial" font-weight="normal" text-anchor="middle" dominant-baseline="middle">
+    <tspan x="77%" dy="-20">"If you do codes, you have writed</tspan>
+    <tspan x="77%" dy="40">alot of texts to make a simple</tspan>
+    <tspan x="77%" dy="40">website, discord bot or alot</tspan>
+    <tspan x="77%" dy="40">Silly game"</tspan>
   </text>
-  <text x="120" y="64" fill="white" font-size="24" font-family="Arial" font-weight="bold">
-    Marc, The most creative coder of all time!
+  <text x="960" y="650" fill="white" font-size="36" font-family="normal" font-weight="bold" text-anchor="middle" font-style="italic">
+    -Marc, 2025.
+  </text>
+  <text x="960" y="670" fill="white" font-size="15" font-family="normal" text-anchor="middle" font-style="italic">
+    (Just kidding, lol)
   </text>
 </svg>

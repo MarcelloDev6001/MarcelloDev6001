@@ -6,7 +6,6 @@
 
 ![](https://github.com/MarcelloDev6001/MarcelloDev6001/blob/main/silly_image.png)
 
-### Just kidding.
 I'm just a silly student studying back-end and trying to do silly discord bots, games or some others stuffs!
 
 # About me:
