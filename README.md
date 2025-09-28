@@ -73,7 +73,7 @@ Some languages i program:
 # Invite & Contact:
 I will be grateful to anyone who invites me to participate in a big project and invites me to be one of the programmers on that project, I will love it :3
 
-If you wan't to contact me, just use one of my Social Medias on [Connect with Me](https://github.com/MarcelloDev6001/CarolBot?tab=readme-ov-file#invite) session.
+If you wan't to contact me, just use one of my Social Medias on [Connect with Me](https://github.com/MarcelloDev6001#connect-with-me) session.
 
 # That's all for now, bye!
 ![](https://static.wikia.nocookie.net/db-dokfanbattle/images/0/06/BirdbrainTeto.gif/revision/latest/scale-to-width-down/250?cb=20250730055314)
