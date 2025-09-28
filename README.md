@@ -15,6 +15,12 @@ Im currently developing a Discord bot called Carol (View the Repository clicking
 
 Hope i can be a good full-stack developer on future :)
 
+Some languages i program:
+- C#. (I used on some Unity games i made before, muuuuch before)
+- Java. (I'm using this language on [Carol](https://github.com/MarcelloDev6001/CarolBot))
+- Python. (Alpha version of Carol uses Python, so i know a little of Python)
+- HTML & CSS. (I'm trying to create some websites)
+
 ### Plans for future:
 - Learn more of Python, Kotlin, JavaScript, HTML (and CSS) and learn better of Java.
 
@@ -57,3 +63,17 @@ Hope i can be a good full-stack developer on future :)
 - [Grace](https://www.roblox.com/games/138837502355157/SPREAD-THE-LOVE-Grace).
 - [Regretevator](https://www.roblox.com/games/4972273297/Regretevator-ELEVATOR-SIMULATOR).
 - [SEWH (Something Evil Will Happen)](https://www.roblox.com/games/16991287194/something-evil-will-happen).
+
+### Favorite Vocaloid:
+<p>Kasane teto :3</p>
+<p>
+  <img src="https://i.pinimg.com/originals/37/b5/67/37b567b7e122351384a712f82d92fac8.gif" width=250>
+</p>
+
+# Invite & Contact:
+I will be grateful to anyone who invites me to participate in a big project and invites me to be one of the programmers on that project, I will love it :3
+
+If you wan't to contact me, just use one of my Social Medias on [Connect with Me](https://github.com/MarcelloDev6001/CarolBot?tab=readme-ov-file#invite) session.
+
+# That's all for now, bye!
+![](https://static.wikia.nocookie.net/db-dokfanbattle/images/0/06/BirdbrainTeto.gif/revision/latest/scale-to-width-down/250?cb=20250730055314)
