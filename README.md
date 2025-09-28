@@ -71,7 +71,7 @@ Some languages i program:
 </p>
 
 # Invite & Contact:
-I will be grateful to anyone who invites me to participate in a big project and invites me to be one of the programmers on that project, I will love it :3
+I will be grateful to anyone who invites me to participate in a big (or small) project and invites me to be one of the programmers on that project, I will love it :3
 
 If you wan't to contact me, just use one of my Social Medias on [Connect with Me](https://github.com/MarcelloDev6001#connect-with-me) session.
 
