@@ -39,7 +39,7 @@ Hope i can be a good full-stack developer on future :)
 # Extras stuffs:
 
 ## 🎵 Listening now:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31myykbfo5l4dzug3odf7rjsmsxm&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31myykbfo5l4dzug3odf7rjsmsxm&redirect=true)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31myykbfo5l4dzug3odf7rjsmsxm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31myykbfo5l4dzug3odf7rjsmsxm&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)
 
 ## Favorite Games:
 <table align="left">
