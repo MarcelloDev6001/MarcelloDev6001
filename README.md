@@ -4,7 +4,7 @@
   Here you can see all my code stuffs and bio!
 </h3>
 
-![](https://github.com/MarcelloDev6001/MarcelloDev6001/blob/main/quote.svg)
+![](https://github.com/MarcelloDev6001/MarcelloDev6001/blob/main/funny_quote.svg)
 
 I'm just a silly student studying back-end and trying to do silly discord bots, games or some others stuffs!
 
