@@ -38,10 +38,10 @@ Hope i can be a good full-stack developer on future :)
 
 # Extras stuffs:
 
-## 🎵 Listening now:
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31myykbfo5l4dzug3odf7rjsmsxm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31myykbfo5l4dzug3odf7rjsmsxm&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)
+### 🎵 Listening now:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31myykbfo5l4dzug3odf7rjsmsxm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31myykbfo5l4dzug3odf7rjsmsxm&redirect=true)
 
-## Favorite Games:
+### Favorite Games:
 <table align="left">
   <tr>
     <td align="center">
