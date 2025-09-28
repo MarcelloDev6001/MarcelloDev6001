@@ -18,30 +18,23 @@ Hope i can be a good full-stack developer on future :)
 ### Plans for future:
 - Learn more of Python, Kotlin, JavaScript, HTML (and CSS) and learn better of Java.
 
-<h1 align="center">Connect With me:</h1>
+# Connect With me:
 <p align="center">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://discord.com/users/779727883228020756">
+    <img src="https://lanyard.cnrad.dev/api/779727883228020756?idleMessage=Doing%20nothing%20for%20now!"> <br/><br/>
+  </p> 
 </p>
 
-<p align="center">
-<a href="https://discord.com/users/779727883228020756">
-  <img src="https://lanyard.cnrad.dev/api/779727883228020756?idleMessage=Doing%20nothing%20for%20now!"> <br/><br/>
-</p> 
-</p>
-
-<h1 align="center">📊 GitHub Stats:</h1>
-<p align="center">
+# 📊 GitHub Stats:
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcelloDev6001&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="MarcelloDev6001's Stats">
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloDev6001&theme=radical&hide_border=false" alt="MarcelloDev6001's Streak">
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloDev6001&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="MarcelloDev6001's Top Languages">
 </p>
 
-<h1 align="center">Extras stuffs:</h1>
+# Extras stuffs:
 
 ## 🎵 Listening now:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31myykbfo5l4dzug3odf7rjsmsxm&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31myykbfo5l4dzug3odf7rjsmsxm&redirect=true)
