@@ -20,6 +20,7 @@ Some languages i program:
 - Java. (I'm using this language on [Carol](https://github.com/MarcelloDev6001/CarolBot))
 - Python. (Alpha version of Carol uses Python, so i know a little of Python)
 - HTML & CSS. (I'm trying to create some websites)
+- Lua. (I'm using on the roblox game "Theory Of Colors" by [VOID Realm Studio](https://www.roblox.com/communities/391115286/VOID-Realm-Studio#!/about))
 
 ### Plans for future:
 - Learn more of Python, Kotlin, JavaScript, HTML (and CSS) and learn better of Java.
