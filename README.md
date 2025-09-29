@@ -53,8 +53,8 @@ Some languages i program:
 </p>
 
 # 👀 Personnel screentime:
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # Extras stuffs:
 
