@@ -9,7 +9,7 @@
 # About me:
 Name's Marcello, 15 years old. 
 
-A silly Brazilian that have a little aknowledge of english :D
+A silly Brazilian that have a little acknowledge of english :D
 
 Im currently developing a Discord bot called [Carol](https://github.com/MarcelloDev6001/CarolBot) and a game called "Theory of Colors" (it's currently private, soo no link for now).
 
