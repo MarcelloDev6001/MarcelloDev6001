@@ -15,7 +15,7 @@ Im currently developing a Discord bot called [Carol](https://github.com/Marcello
 
 Hope i can be a good full-stack developer on future :)
 
-Some languages i program:
+### Tech Stack (software):
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
