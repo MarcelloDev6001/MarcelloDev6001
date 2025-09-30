@@ -70,20 +70,6 @@ Java   0 secs          ███████████████████
 ### 🎵 Listening now:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31myykbfo5l4dzug3odf7rjsmsxm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31myykbfo5l4dzug3odf7rjsmsxm&redirect=true)
 
-### Favorite Games:
-- [Forsaken](https://www.roblox.com/games/18687417158/UPDATE-Forsaken).
-- [Dandy's World](https://www.roblox.com/games/16116270224/Dandys-World-ALPHA).
-- [Pressure](https://www.roblox.com/games/12411473842/Pressure).
-- [Grace](https://www.roblox.com/games/138837502355157/SPREAD-THE-LOVE-Grace).
-- [Regretevator](https://www.roblox.com/games/4972273297/Regretevator-ELEVATOR-SIMULATOR).
-- [SEWH (Something Evil Will Happen)](https://www.roblox.com/games/16991287194/something-evil-will-happen).
-
-### Favorite Vocaloid:
-<p>Kasane teto :3</p>
-<p>
-  <img src="https://i.pinimg.com/originals/37/b5/67/37b567b7e122351384a712f82d92fac8.gif" width=250>
-</p>
-
 # Invite & Contact:
 I will be grateful to anyone who invites me to participate in a big (or small) project and invites me to be one of the programmers on that project, I will love it :3
 
