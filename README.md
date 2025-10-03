@@ -66,9 +66,9 @@ Hope i can be a good full-stack developer on future :)
  <!--START_SECTION:waka-->
 
 ```txt
-Java             3 hrs 22 mins   ████████████████████████▓   99.29 %
-Kotlin           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java             5 hrs           █████████████████████████   99.52 %
+Kotlin           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
