@@ -47,11 +47,8 @@ Hope i can be a good full-stack developer on future :)
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-<p align="left">
-    <a href="https://discord.com/users/779727883228020756">
-      <img src="https://lanyard.cnrad.dev/api/779727883228020756?idleMessage=Doing%20nothing%20for%20now!"> <br/><br/>
-    </a>
-</p> 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/779727883228020756?showDisplayName=true&borderRadius=20px&animatedDecoration=true)](https://discord.com/users/779727883228020756)
 
 # 📊 GitHub Stats:
 <p align="left">
