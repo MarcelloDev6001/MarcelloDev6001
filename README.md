@@ -6,6 +6,7 @@
 
 ![](https://github.com/MarcelloDev6001/MarcelloDev6001/blob/main/funny_quote.svg)
 
+
 # About me:
 Name's Marcello, 15 years old. 
 
