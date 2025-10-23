@@ -64,7 +64,7 @@ Hope i can be a good full-stack developer on future :)
  <!--START_SECTION:waka-->
 
 ```txt
-Java   30 mins         █████████████████████████   100.00 %
+Java   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
